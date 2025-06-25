@@ -7,10 +7,10 @@ Playground for WordPress hacking and [wpscan](https://github.com/wpscanteam/wpsc
 ## Installation
 
 ```
-$ git clone https://github.com/vavkamil/dvwp.git
-$ cd dvwp/
-$ docker-compose up -d --build
-$ docker-compose run --rm wp-cli install-wp
+git clone https://github.com/C4denaX/dvwp.git
+cd dvwp/
+sudo docker-compose up -d --build
+sudo docker-compose run --rm wp-cli install-wp
 ```
 
 ## Usage
